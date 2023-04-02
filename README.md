@@ -14,7 +14,7 @@
 <br></br>
 
 ## **Notable projects**
----
+
 As I said in my introduction, this profile will mostly hold projects that are related to my school. Here are some of them that I deem worth to showcase:
 <table style="margin:10%" align="center">
     <tr>
@@ -56,7 +56,7 @@ As I said in my introduction, this profile will mostly hold projects that are re
 <br></br>
 
 ## **Profile details**
----
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
