@@ -20,7 +20,7 @@ As I said in my introduction, this profile will mostly hold projects that are re
     <tr>
         <td>
             <div align="center">
-                <a href="https://github.com/pelayo-joel/pokemon"><img src="./images-src/Tetris69-presentation.gif"  width="80%"></a>
+                <a href="https://github.com/pelayo-joel/tetris"><img src="./images-src/Tetris69-presentation.gif"  width="80%"></a>
                 <p>Tetris 69</p>
             </div>
         </td>
