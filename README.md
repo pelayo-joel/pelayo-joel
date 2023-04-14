@@ -3,8 +3,6 @@
 
 <p align="center">Currently studying at La Plateforme_ and passionate about video games, i'm an aspiring game developer. I began to learn programming and computer science in general by myself for about 2 years now. I first started by learning C#, Unity and blender and then took the CS50 course from Harvard University in 2021 to learn even more about computer science. This GitHub profile was created for my Bachelor IT at La Plateforme_ so you'll mainly see project related to it, I also had a GitHub profile that I used for the CS50 course under the username "<a href=https://github.com/Burger-Code>Burger-Code</a>" (all repos on it are private).</p>
 
-- 🔭 I’m currently working on this repo: [myDiscord](https://github.com/livio-gonzalez-luna/myDiscord).
-
 - 🌱 I’m also learning on the side **C++ for Game development**.
 
 - 📫 You can reach me here **joel.pelayo@laplateforme.io** or on my [LinkedIn]("https://www.linkedin.com/in/jo%C3%ABl-pelayo/?locale=en_US").
